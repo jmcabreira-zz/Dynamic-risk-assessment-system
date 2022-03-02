@@ -1,12 +1,12 @@
 ![](images/CabreiraLogo.png)
 
-# # Dynamic-risk-assessment-system Project:
+# Dynamic-risk-assessment-system Project:
 
 * In this project we create, deploy, and monitor a risk assessment ML model that will estimate the attrition risk of each of the company's clients
 * Set up processes and scripts to re-train, re-deploy, monitor, and report on your ML model, so that your company can get risk assessments that are as accurate as possible and minimize client attrition.
 
 <p align="center">
-  <img  src="images/fullprocess.png">
+  <img  src="images/fullprocess.jpg">
 </p>
 
 
